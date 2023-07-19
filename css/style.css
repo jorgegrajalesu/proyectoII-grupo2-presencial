@@ -10,3 +10,17 @@
 .alto-img{
     height: 550px !important;
 }
+
+.nav-link{
+    color: #fff !important;
+    font-weight: 700;
+}
+
+.nav-link:hover{
+    color: #d9b70e !important;
+    font-weight: 700;
+}
+
+.nav-link.active{
+    color: #000 !important;
+}
