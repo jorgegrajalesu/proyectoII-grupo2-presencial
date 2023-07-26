@@ -39,3 +39,14 @@ body{
     text-align: center;
     color: #fff;
 }
+
+/* videos */
+#videos{
+    background-color: #87d5f4 !important;
+}
+
+#videos .titulo{
+    text-align: center;
+    width: 100%;
+    color: #000;
+}
