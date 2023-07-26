@@ -28,3 +28,9 @@ body{
 .nav-link.active{
     color: #000 !important;
 }
+
+/* novedades */
+#novedades{
+    background-color: #0A417F !important;
+}
+
