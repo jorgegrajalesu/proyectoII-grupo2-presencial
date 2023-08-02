@@ -229,3 +229,13 @@ footer{
     padding-top:20px 0;
     text-align: center;
 }
+
+
+/* pag contacto */
+#contacto .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
