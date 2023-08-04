@@ -243,3 +243,11 @@ footer{
 .col-12 button{
     margin-bottom: 10px;
 }
+
+/* pag nosotros */
+#nosotros .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+    
+}
